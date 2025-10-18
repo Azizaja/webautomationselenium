@@ -1,0 +1,9 @@
+pages\BasePage.class
+pages\ProductPage.class
+runners\LoginRunner.class
+stepdefinitions\LoginSteps.class
+pages\LoginPage.class
+pages\CartPage.class
+pages\CheckoutPage.class
+utils\ConfigReader.class
+stepdefinitions\CheckoutSteps.class
